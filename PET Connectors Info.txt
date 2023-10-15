@@ -1,0 +1,11 @@
+PET Connector
+
+User Port
+Pin 2 Video
+Pin 9 Vertical Sync
+Pin 10 Horizontal Sync
+Pin 1 and 12 Ground
+
+Tape Port
+Pin 2 +5VDC
+
