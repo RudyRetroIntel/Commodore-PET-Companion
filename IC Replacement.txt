@@ -1,0 +1,49 @@
+Commodore PET Companion IC Replacements 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+The **CD4011BE** is a quad 2-input NAND gate integrated circuit (IC) manufactured by Texas Instruments¹. It is part of the 4000B series and comes in a 14-DIP (Dual In-line Package) format¹. 
+
+If you're looking for a replacement, you would typically want an IC that has the same functionality. In this case, that would be a quad 2-input NAND gate. The **HCF4011M013TR** from STMicroelectronics is a pin-to-pin replacement². It performs the same logic NAND function².
+
+Please note that while these ICs have the same functionality, there might be differences in their electrical characteristics such as supply voltage, propagation delay, etc. Therefore, it's important to check the datasheets of both ICs to ensure compatibility with your specific application¹⁴.
+
+Source: Conversation with Bing, 9/27/2023
+(1) CD4011BE Texas Instruments | Integrated Circuits (ICs) | DigiKey. https://www.digikey.com/en/products/detail/texas-instruments/CD4011BE/67241.
+(2) CD4011BE cross reference, CD4011BE replacement, CD4011BE ... - Hotenda. https://www.hotenda.com/reference/cross/part/CD4011BE.html.
+(3) CD4011 NAND Gate IC Pinouts, Alternatives, Features ... - Components101. https://components101.com/ics/cd4011-nand-gate-pinout-features-datasheet-alternatives.
+(4) CD4011BE Datasheet(PDF) - Texas Instruments. https://www.alldatasheet.com/datasheet-pdf/pdf/26851/TI/CD4011BE.html.
+
+Others are the
+The **SN74LS00** from Texas Instruments is a quad 2-input NAND gate IC¹. It is part of the 74LS series and uses low-power Schottky transistors to reduce the stored charge and achieve higher switching speeds than with conventional bipolar transistors¹²³⁵. It comes in a 14-pin package and each NAND gate has two inputs & one output²³⁵.
+
+Source: Conversation with Bing, 9/27/2023
+(1) SN74LS00 data sheet, product information and support | TI.com. https://www.ti.com/product/SN74LS00.
+(2) 74LS00–Quad Two Input NAND Gate - Components101. https://components101.com/ics/74ls00-quad-two-input-nand-gate.
+(3) 74LS00 Quad Two Input NAND Gate - Datasheet - Circuits DIY. https://www.circuits-diy.com/74ls00-quad-two-input-nand-gate-datasheet/.
+(4) 74LS00 Quad 2 Input NAND Gate: Datasheet, Pinout and Schematic - Utmel. https://www.utmel.com/components/74ls00-quad-2-input-nand-gate-datasheet-pinout-and-schematic?id=740.
+(5) 74LS01 Quad 2-input NAND Gate (Open Collector) - Datasheet Hub. https://datasheethub.com/74ls01-quad-2-input-nand-gate-open-collector/.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+The **CD4066BE** is a quad bilateral switch integrated circuit (IC) manufactured by Texas Instruments¹. It is part of the 4000B series and comes in a 14-DIP (Dual In-line Package) format¹. 
+
+If you're looking for a replacement, you would typically want an IC that has the same functionality. In this case, that would be a quad bilateral switch. The **CD4016** is very similar to the CD4066 and can act as a direct pin-to-pin replacement³.
+
+Please note that while these ICs have the same functionality, there might be differences in their electrical characteristics such as supply voltage, propagation delay, etc. Therefore, it's important to check the datasheets of both ICs to ensure compatibility with your specific application¹².
+
+Source: Conversation with Bing, 9/27/2023
+(1) CD4066BE Texas Instruments | Mouser. https://www.mouser.com/ProductDetail/Texas-Instruments/CD4066BE?qs=mTHRaKC2c7ObpofRtjqLig%3D%3D.
+(2) CD4066 Quad Bilateral Switches – Multiplexer - Components101. https://components101.com/ics/cd4066-multiplexer-datasheet-pinout-working.
+(3) CD4066BE Texas Instruments | Integrated Circuits (ICs) | DigiKey .... https://www.digikey.com/en/products/detail/texas-instruments/CD4066BE/67313.
+(4) cd4066be: Search Result | eBay. https://www.ebay.ca/sch/i.html?_nkw=cd4066be.
+(5) CD4066BE Texas Instruments | Mouser South Africa. https://www.mouser.co.za/ProductDetail/Texas-Instruments/CD4066BE?qs=mTHRaKC2c7ObpofRtjqLig%3D%3D.
+
+Others are the 
+
+1. **74LS4066**²: A quad bilateral switch IC from the 74LS series. It is a high-speed Si-gate CMOS device².
+2. **SN74LS4066N**¹: Another quad bilateral switch IC from the 74LS series¹.
+
+Please note that while these ICs have the same functionality, there might be differences in their electrical characteristics such as supply voltage, propagation delay, etc. Therefore, it's important to check the datasheets of both ICs to ensure compatibility with your specific application¹².
+
+Source: Conversation with Bing, 9/27/2023
+(1) 74LVC4066 - Quad bilateral switch | Nexperia. https://www.nexperia.com/products/analog-logic-ics/analog-switches-and-multiplexers/analog-switches/series/74LVC4066.html.
+(2) 74 Series Logic ICs | Electronics Club. https://electronicsclub.info/74series.htm.
+(3) 7400-series integrated circuits - Wikipedia. https://en.wikipedia.org/wiki/7400-series_integrated_circuits.
